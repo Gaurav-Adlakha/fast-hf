@@ -1,4 +1,5 @@
-# fasthtml
+fastai
 python-fasthtml
 monsterui
 fasthtml-hf
+numpy<2.0
